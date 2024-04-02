@@ -7,7 +7,7 @@ Faça Download de videos e audio do youtube Gratis
 Passo a Passo para Configurar o Youtube_Dow
 
 1. Baixar a Biblioteca FFmpeg
-  Acesse o link GyanD/codexffmpeg para baixar a biblioteca necessária para o funcionamento do programa.
+  Acesse o link GyanD/codexffmpeg  ( https://github.com/GyanD/codexffmpeg/releases/tag/2024-04-01-git-7bf85d2d3a ) para baixar a biblioteca necessária para o funcionamento do programa.
   Escolha e baixe o arquivo de menor tamanho disponível para economizar espaço e tempo de download.
 
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/09a6ad7f-63dd-4858-aa66-e62874e4e932)
