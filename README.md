@@ -3,6 +3,25 @@ Faça Download de videos e audio do youtube Gratis
 
 É um script Python que cria uma aplicação de interface gráfica (GUI) para baixar vídeos ou playlists do YouTube, permitindo ao usuário escolher entre baixar o conteúdo em formato de vídeo ou apenas o áudio.
 
+Acesse o Link abaixo para baixa uma biblioteca (lib) para funcionamento do programa.
+https://github.com/GyanD/codexffmpeg/releases/tag/2024-04-01-git-7bf85d2d3a
+
+Escolha o arquivo que no momento pode ser o de menor tamanho.
+
+![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/09a6ad7f-63dd-4858-aa66-e62874e4e932)
+
+apos o download renomeia o arquivo para FFmpeg  (clicar na tecla F2) 
+
+copie o arquivo para sua pasta raiz do windows Ex: ( C:\ )
+
+acesse a pasta FFmpeg >> bin >>
+
+clina barra acima da pasta, conforme a imagem abaixo.
+
+![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/184e1aab-778d-47bf-8064-7213d0f649af)
+
+copie a url que deve estar dessa forma C:\FFmpeg\bin
+
 Baixe o arquivo executável que está compactado em formato ZIP e protegido com a senha "123".
 
 Escolha o local onde deseja extrair o arquivo. É recomendável criar uma nova pasta com o nome de sua preferência para isso. Automaticamente, ao baixar vídeos ou áudios, será criado um diretório dentro da pasta que você descompactou.
