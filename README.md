@@ -28,13 +28,14 @@ Mova o arquivo renomeado para a pasta raiz do seu sistema Windows, normalmente C
   Escolha um local no seu computador onde deseja extrair o arquivo. É recomendável criar uma nova pasta para isso, para manter tudo organizado.
   Ao extrair o arquivo, você terá o executável da aplicação Youtube_Dow pronto para ser usado. Ao baixar vídeos ou áudios usando esta aplicação, um diretório para os downloads será automaticamente criado dentro desta pasta.
 
-![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/ddd4a8f4-a0be-4bf3-a3e3-6626ef30f01c)
+![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/f6f0f686-2c6e-484b-8a8d-d80c2b5ed862)
+
 
 5. Configurar e Utilizar o Youtube_Dow
   Abra a aplicação Youtube_Dow que você extraiu.
   Se necessário, configure o caminho para o FFmpeg dentro das configurações da aplicação, utilizando o caminho que você copiou no passo 3 (C:\FFmpeg\bin).
   Utilize a interface gráfica do Youtube_Dow para buscar e baixar vídeos ou playlists do YouTube, escolhendo entre baixar o conteúdo em formato de vídeo ou apenas o áudio.
 
-![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/f6f0f686-2c6e-484b-8a8d-d80c2b5ed862)
+![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/ddd4a8f4-a0be-4bf3-a3e3-6626ef30f01c)
 
 Este guia deve ajudá-lo a configurar e começar a usar o Youtube_Dow para baixar vídeos e áudios do YouTube gratuitamente. Certifique-se de seguir cada passo cuidadosamente para garantir que a aplicação funcione corretamente.
