@@ -44,7 +44,8 @@ Sistema
 
  Configurações avançadas do sistema 
 
-![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/af71bc05-1976-4b6c-b02d-6409453336a5)
+![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/d32d1b42-a2c9-47b5-ad1b-882fd09c2c21)
+
 
 variáveis de ambiente
 
