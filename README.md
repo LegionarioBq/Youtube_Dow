@@ -6,6 +6,9 @@ Faça Download de videos e audio do youtube Gratis
 
 Passo a Passo para Configurar o Youtube_Dow
 
+Assista o Vídeo no Canal do Youtube.
+
+
 1. Baixar a Biblioteca FFmpeg
   Acesse o link GyanD/codexffmpeg  ( https://github.com/GyanD/codexffmpeg/releases/tag/2024-04-01-git-7bf85d2d3a ) para baixar a biblioteca necessária para o funcionamento do programa.
   Escolha e baixe o arquivo de menor tamanho disponível para economizar espaço e tempo de download.
@@ -32,36 +35,47 @@ Mova o arquivo renomeado para a pasta raiz do seu sistema Windows, normalmente C
    Aperte o botão OK >> OK >> OK
 
 Painel de Controle
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/2a3000d5-461f-4f6d-8921-a6e765357883)
 
 Sistema
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/3d6ced80-42a4-4cd9-a36e-ea1afda46fa3)
 
  Configurações avançadas do sistema 
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/af71bc05-1976-4b6c-b02d-6409453336a5)
 
 variáveis de ambiente
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/6dda369e-baeb-4b4e-8694-0e3db64b54ef)
 
 Path
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/57940940-3369-4386-8948-f9a1e867661b)
 
 Editar
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/aff34751-98d1-4942-89ca-81b9b76b5f69)
 
 Novo
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/b6802712-fa47-4a1a-b1f3-06e44013ecae)
 
 Coloar o caminho copiado C:\FFmpeg\bin 
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/70f0ece0-34e4-45a0-ae1a-3d4691eed539)
 
 ok
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/259840ab-8644-4fa0-aae8-0ee6f375e7ae)
 
 ok
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/e00e88c6-d3a0-42f6-82e9-b91ba0131c61)
 
 ok
+
 ![image](https://github.com/LegionarioBq/Youtube_Dow/assets/109097036/d1081b70-2dad-4843-b6bc-917dd178b6e8)
 
 
