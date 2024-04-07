@@ -6,7 +6,8 @@ Faça Download de videos e audio do youtube Gratis
 
 Passo a Passo para Configurar o Youtube_Dow
 
-Assista o Vídeo no Canal do Youtube.
+Assista o Vídeo Para Configurar.
+https://odysee.com/@ProgramadorEmpirico:8/Youtube_Dow:b
 
 
 1. Baixar a Biblioteca FFmpeg
